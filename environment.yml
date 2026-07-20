@@ -1,0 +1,11 @@
+name: FAO-PK_training
+channels:
+  - conda-forge
+dependencies:
+  - r-climate4r
+  - r-sf
+  - r-rcolorbrewer
+  - r-lattice
+  - r-gridextra
+  - r-irkernel
+  - jupyter

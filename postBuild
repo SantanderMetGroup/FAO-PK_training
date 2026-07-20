@@ -1,0 +1,5 @@
+mkdir -p data/obs
+wget -q -O "data/obs/tmax.rda" "https://docs.google.com/uc?export=download&id=1yrHx9ifagF0yn7dL2X8dz_GfoEE4lcTX" 
+wget -q -O "data/obs/tmmin.rda" "https://docs.google.com/uc?export=download&id=1KujgBSSVvMLri2fFPxJTbUdFtp1pPOi_" 
+wget -q -O "data/obs/pr.rda" "https://docs.google.com/uc?export=download&id=1rDJci5vITi169MEY9iAht8I7MNTrGpD-" 
+wget -q -O "data/obs/rad.rda" "https://docs.google.com/uc?export=download&id=1v2zPPfhzV7YEBUAvji301bpTDKoZ_Jtd" 
