@@ -1,0 +1,5 @@
+variable_id, name, unit, missing_code, 
+pr, Total precipitation accumulated in 24 hours, mm, NA
+tmax, Maximum daily temperature, degC, NA
+tmin, Minimum daily temperature, degC, NA
+rad, Daily radiation, W/m^2, NA
